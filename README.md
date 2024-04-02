@@ -12,7 +12,7 @@ This program provides basic functionalities similar to those available in Git, i
 - And other basic functionalities.
 
 ## Structure and Organization
-The program is organized in a single Python file `gitpy.py`, which includes a set of classes and functions to execute basic Git functionalities.
+The program is organized in a single Python file `wyag.py`, which includes a set of classes and functions to execute basic Git functionalities.
 
 ## Running the Program
 The program can be run via the command line using Python, as follows:
