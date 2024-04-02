@@ -18,4 +18,4 @@ The program is organized in a single Python file `wyag.py`, which includes a set
 The program can be run via the command line using Python, as follows:
 
 ```bash
-python gitpy.py <command>
+python wyag.py <command>
